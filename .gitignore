@@ -1,0 +1,7 @@
+/*.png
+.git
+**/__pycache__
+**/.ipynb_checkpoints
+*.ini
+test.py
+*.pth
